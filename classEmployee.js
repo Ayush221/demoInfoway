@@ -11,7 +11,7 @@ var Employee = /** @class */ (function () {
     };
     return Employee;
 }());
-var emp = new Employee("Ayush", 24, false);
+var emp = new Employee("Ayush", 22, false);
 // emp.getEmployeeDetails();
 // var emp = new Employee();
 // emp.ename="ketan";
