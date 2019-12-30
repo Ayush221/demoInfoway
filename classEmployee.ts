@@ -1,4 +1,4 @@
-class Employee 
+
 {
     ename:string;
     age:number;
